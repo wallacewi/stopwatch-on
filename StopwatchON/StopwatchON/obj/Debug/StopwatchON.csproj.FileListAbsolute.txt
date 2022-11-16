@@ -1,0 +1,11 @@
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\bin\Debug\StopwatchON.exe.config
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\bin\Debug\StopwatchON.exe
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\bin\Debug\StopwatchON.pdb
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.csproj.AssemblyReference.cache
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.csproj.SuggestedBindingRedirects.cache
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.Properties.Resources.resources
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.csproj.GenerateResource.cache
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.csproj.CoreCompileInputs.cache
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.exe
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.pdb
+C:\Users\wictc\Documents\GitHub\stopwatch-on\StopwatchON\StopwatchON\obj\Debug\StopwatchON.Window.resources
